@@ -2,7 +2,7 @@
 
 # Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://uploaddeimagens.com.br/images/004/476/494/original/_C__Users_renan_OneDrive_Documentos_Aulas20-20partir20zero20e20para20web_00420HTML20CSS20com20eC3C.png?1684776446)
+![image](https://uploaddeimagens.com.br/images/004/476/507/original/_C__Users_renan_OneDrive_Documentos_Aulas20-20partir20zero20e20para20web_00420HTML20CSS20com20.png?1684776655)
 
 ## Ferramentas utilizadas:
 
