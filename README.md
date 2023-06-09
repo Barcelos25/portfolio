@@ -14,7 +14,7 @@
 
 ## Feito por:
 
-### Renan Silva Barcelos
+### Renan Barcelos
 
 ### Linkedin: https://www.linkedin.com/in/renan-silva-barcelos-1948b3266/
 
